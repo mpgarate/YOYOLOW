@@ -1,0 +1,61 @@
+h1, h2, h3, h4, h5 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+html {
+	font-family: 'Montserrat', sans-serif;
+}
+
+body {
+	padding:20px 0;
+	margin: 0;
+}
+
+
+.header {
+	color: #9B59B6;
+	padding: 0 80px;
+}
+
+.global_highs table{
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.global_highs {
+}
+
+table, p {
+	font-size: 28px;
+}
+
+table {
+	width:100%;
+}
+
+th{
+	text-align: left;
+}
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 586px;
+}
+
+.global_highs {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 586px;
+  background: #9B59B6;
+  padding: 20px 80px;
+}
+
