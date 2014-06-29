@@ -1,6 +1,6 @@
 development:
   sessions:
     default:
-      database: yoyolow_development 
-      hosts:
-        - localhost:27017
+        database: "yoyolowest_production"
+        hosts:
+            - localhost:27017
